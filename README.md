@@ -5,13 +5,15 @@ This project is developed using Angular JS to display the CSV file in grid forma
 
 ## Build & development
 
-Clone the project in local directory
+Clone the project in local directory and run following commands
 
-__cd <directory name>__
-__npm install__
-__grunt install__
+__cd 'directory name'
+
+__npm install
+
+__grunt install
 
 
 ## Testing
 
-__grunt server__
+__grunt serve
