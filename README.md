@@ -7,13 +7,22 @@ This project is developed using Angular JS to display the CSV file in grid forma
 
 Clone the project in local directory and run following commands
 
-###cd 'directory name'
+```
+ cd 'directory name'
+```
 
-###npm install
+```
+ npm install
+```
 
-###grunt install
-
+```
+ grunt install
+```
 
 ## Testing
 
-###grunt serve
+Run following command
+
+```
+grunt serve
+```
