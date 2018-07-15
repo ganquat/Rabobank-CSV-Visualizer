@@ -16,7 +16,7 @@ Clone the project in local directory and run following commands
 ```
 
 ```
- grunt install
+ bower install
 ```
 
 ## Testing
