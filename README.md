@@ -1,12 +1,17 @@
-# our-app
+Rabobank CSV Visualizer
+=========================
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.16.0.
+This project is developed using Angular JS to display the CSV file in grid format
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+Clone the project in local directory
+
+__cd <directory name>__
+__npm install__
+__grunt install__
+
 
 ## Testing
 
-Running `grunt test` will run the unit tests with karma.
+__grunt server__
